@@ -1,4 +1,4 @@
-### Olá, aqui Everson Silva, o Desenvolvedor Fullstack Jr.
+### Olá, aqui é o Everson Silva, o Desenvolvedor Fullstack Jr.
 
 
 - 🔭 Atualmente trabalho em CLT, Workana e projetos pessoais.
