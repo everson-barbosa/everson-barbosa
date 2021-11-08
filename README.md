@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho em CLT, Workana e projetos pessoais.
-- 📫 E-mail: everson.silva27061@gmail.com
+- 📫 E-mail: everson.silva2706@gmail.com
 - 📞 Telefone: (11) 98277-4843
 
  <div>
