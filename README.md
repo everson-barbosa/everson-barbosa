@@ -1,9 +1,9 @@
-### Olá, aqui é o Everson Silva, o Desenvolvedor Fullstack Jr.
+### Everson, Engenheiro de Software
 
 
-- 🔭 Atualmente trabalho em CLT, Workana e projetos pessoais.
-- 📫 E-mail: everson.silva2706@gmail.com
-- 📞 Telefone: (11) 98277-4843
+- 📍 São Paulo, SP.
+- 📫 everson.silva2706@gmail.com
+- 📞 (11) 98277-4843
 
  <div>
   <a href="https://github.com/eversilva">
@@ -29,4 +29,5 @@
   <a href="https://www.linkedin.com/in/everson-barbosa-da-silva-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
 </div>
- <img src="https://komarev.com/ghpvc/?username=eversilva&color=green" alt="eversilva" />
+ 
+ > "Quando tiver medo use uma espada, levante-a bem alto e corte todos os laços, elimine todo arrependimento ou medo. Todo resto vive no passado ou no futuro", O Caminho do Guerreiro Pacífico
