@@ -1,6 +1,9 @@
 ## About me
 
-Hi, let me introduce myself, I'm 26 years old, I'm living in Brazil. I like to play souls like games, read fiction books and shounens mangas and play soccer.<br>
+Hi, let me introduce myself, I'm 26 years old, I'm living in Brazil. In my free time I like to: <br>
+&ensp; &ensp; 🎮 Spend time in Elden Ring PVP. <br>
+&ensp; &ensp; 📖 Read fiction books and shounens mangas. <br>
+&ensp; &ensp; ⚽ Play soccer. <br>
 
  > "Quando tiver medo use uma espada, levante-a bem alto e corte todos os laços, elimine todo arrependimento ou medo. Todo resto vive no passado ou no futuro", O Caminho do Guerreiro Pacífico
 
