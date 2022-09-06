@@ -1,11 +1,10 @@
 ## About me
 
-Hi, let me introduce myself, I'm 26 years old, I'm living in Brazil. In my free time I like to: <br>
-🎮 Spend time in Elden Ring PVP. <br>
-📖 Read fiction books and shounens mangas. <br>
-⚽ Play soccer. <br>
+📖 Gosto de ler livros de ficção (A Batalha do Apocalipse) e mangás (Berserk, One Piece). <br>
+🎮 Me encontre nas arenas de PVP do Elden Ring. <br>
+⚽ Jogar bola quando o joelho permite. <br>
 
- > "Quando tiver medo use uma espada, levante-a bem alto e corte todos os laços, elimine todo arrependimento ou medo. Todo resto vive no passado ou no futuro", O Caminho do Guerreiro Pacífico
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversilva&layout=compact&theme=github_dark"/>
 
 ## Contact
 📍 São Paulo, SP -Brazil <br>
@@ -30,6 +29,6 @@ Hi, let me introduce myself, I'm 26 years old, I'm living in Brazil. In my free 
 ## Social medias
 <div> 
   <a href="https://www.instagram.com/eversonsilva2706/_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:everson.silva2706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/everson-barbosa-da-silva-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:everson.silva2706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
