@@ -16,6 +16,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=MUI)
 ![styled-components](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)
