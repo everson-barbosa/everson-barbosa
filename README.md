@@ -6,11 +6,12 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversilva&layout=compact&theme=github_dark"/>
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=eversilva&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true)
+
 ## Contact
 📍 São Paulo, SP -Brazil <br>
 📫 everson.silva2706@gmail.com <br>
 📞 (11) 98277-4843
-
   
 ## Stacks
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
