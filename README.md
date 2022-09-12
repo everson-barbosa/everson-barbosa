@@ -1,10 +1,17 @@
+<img alt="Robo de Breath of Fire IV - Ershin se escondendo" src="https://github.com/EverSilva/EverSilva/blob/main/assets/ershin-hiding.gif" width="150">
+
 ## About me
 
 📖 Gosto de ler livros de ficção (A Batalha do Apocalipse) e mangás (Berserk, One Piece). <br>
 🎮 Me encontre nas arenas de PVP do Elden Ring. <br>
 ⚽ Jogar bola quando o joelho permite. <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversilva&layout=compact&theme=github_dark"/>
+## Stats
+
+<p float="left">
+<img width="450" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversilva&layout=compact&theme=github_dark&border=FFFFFF03&hide_border=true"/>
+<img width="450" src="http://github-streak-stats.herokuapp.com/?user=EverSilva&theme=dark&background=0D1117&border=FF2D2D00"/>
+</p>
 
 ## Contact
 📍 São Paulo, SP -Brazil <br>
@@ -38,8 +45,8 @@
   <a href="https://www.linkedin.com/in/everson-barbosa-da-silva-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-<p align="left">
-  <a href="https://github.com/eversilva/?tab=follow" >
-    <img src="https://img.shields.io/github/followers/eversilva?label=Follow&style=social" />
-  </a> 
-</p>
+![Repos](https://badges.strrl.dev/repos/EverSilva?color=e3e3e3&labelColor=333333&style=flat)
+![Commits](https://badges.strrl.dev/commits/all/EverSilva?color=e3e3e3&labelColor=333333&style=flat)
+![FollowMe](https://img.shields.io/github/followers/eversilva?label=Follow&style=social)
+
+<img alt="Robo de Breath of Fire IV - Ershin andando" src="https://github.com/EverSilva/EverSilva/blob/main/assets/ershin-walking.gif" width="110">
