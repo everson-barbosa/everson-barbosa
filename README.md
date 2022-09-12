@@ -6,8 +6,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversilva&layout=compact&theme=github_dark"/>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=eversilva&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true)
-
 ## Contact
 📍 São Paulo, SP -Brazil <br>
 📫 everson.silva2706@gmail.com <br>
