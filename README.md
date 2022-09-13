@@ -39,8 +39,6 @@ Olá, sou um programador, leitor de mangás e livros, admirador da natureza, des
   <a href="https://www.linkedin.com/in/everson-barbosa-da-silva-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-![Repos](https://badges.strrl.dev/repos/EverSilva?color=e3e3e3&labelColor=333333&style=flat)
-![Commits](https://badges.strrl.dev/commits/all/EverSilva?color=e3e3e3&labelColor=333333&style=flat)
 ![FollowMe](https://img.shields.io/github/followers/eversilva?label=Follow&style=social)
 
 <img alt="Robo de Breath of Fire IV - Ershin se escondendo" src="https://github.com/EverSilva/EverSilva/blob/main/assets/ershin-hiding.gif" width="150">
