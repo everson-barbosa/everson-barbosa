@@ -6,11 +6,6 @@ Olá, sou um programador, leitor de mangás e livros, admirador da natureza, des
 <img width="380" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversilva&layout=compact&theme=github_dark&border=FFFFFF03&hide_border=true&locale=pt-br&hide_title=true"/>
 <img width="380" src="http://github-streak-stats.herokuapp.com/?user=EverSilva&theme=dark&background=0D1117&border=FF2D2D00"/>
 </p>
-
-## Contact
-📍 São Paulo, SP - Brasil <br>
-📫 everson.silva2706@gmail.com <br>
-📞 (11) 98277-4843
   
 ## Stacks
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
