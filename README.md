@@ -34,6 +34,10 @@ Olá, sou um programador, leitor de mangás e livros, admirador da natureza, des
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>  
 
-![FollowMe](https://img.shields.io/github/followers/eversilva?label=Follow&style=social)
+<a href="mailto:everson.silva2706@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-d93339?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
 
 <img alt="Robo de Breath of Fire IV - Ershin se escondendo" src="https://github.com/EverSilva/EverSilva/blob/main/assets/ershin-hiding.gif" width="150">
+
+![FollowMe](https://img.shields.io/github/followers/eversilva?label=Follow&style=social)
