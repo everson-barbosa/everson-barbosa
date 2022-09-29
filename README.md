@@ -1,5 +1,5 @@
 ## About me
-Olá, sou um programador, leitor de mangás e livros, admirador da natureza, desenhista, amante da música e modéstia a parte, um ótimo jogador de Elden Ring.
+Olá, sou um programador, leitor de mangás e livros, amante da natureza, desenhista e viciado em café.
 
 ## Stats
 <p float="left" align="center">
