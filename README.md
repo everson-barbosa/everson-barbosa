@@ -39,5 +39,3 @@ Olá, sou um programador, leitor de mangás e livros, amante da natureza, desenh
 </a>
 
 <img alt="Robo de Breath of Fire IV - Ershin se escondendo" src="https://github.com/EverSilva/EverSilva/blob/main/assets/ershin-hiding.gif" width="150">
-
-![FollowMe](https://img.shields.io/github/followers/eversilva?label=Follow&style=social)
