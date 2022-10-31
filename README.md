@@ -1,5 +1,5 @@
 ## About me
-Olá, sou um programador, leitor de mangás e livros, amante da natureza, desenhista e viciado em café.
+Olá, sou um programador, leitor de mangás e livros, amante da natureza, desenhista, viciado em café e aspirante violonista.
 
 ## Stats
 <p float="left" align="center">
