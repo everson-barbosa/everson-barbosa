@@ -4,7 +4,7 @@ Olá, sou um programador, leitor de mangás e livros, amante da natureza, desenh
 ## Stats
 <p float="left" align="center">
 <img width="380" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversilva&layout=compact&theme=github_dark&border=FFFFFF03&hide_border=true&locale=pt-br&hide_title=true"/>
-<img width="380" src="http://github-streak-stats.herokuapp.com/?user=EverSilva&theme=dark&background=0D1117&border=FF2D2D00"/>
+<img width="380" src="https://streak-stats.demolab.com/?user=EverSilva&theme=dark&hide_border=true&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&background=0D1117"/>
 </p>
   
 ## Stacks
