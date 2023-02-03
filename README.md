@@ -1,13 +1,13 @@
-## About me
-Olá, sou um programador, leitor de mangás e livros, amante da natureza, desenhista, viciado em café e aspirante violonista.
+## Sobre mim
+Eu muito bebo café e programo, é isso.
 
-## Stats
+## Informações
 <p float="left" align="center">
 <img width="380" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversilva&layout=compact&theme=github_dark&border=FFFFFF03&hide_border=true&locale=pt-br&hide_title=true"/>
 <img width="380" src="https://streak-stats.demolab.com/?user=EverSilva&theme=dark&hide_border=true&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&background=0D1117"/>
 </p>
   
-## Stacks
+## Tecnologias
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
@@ -28,7 +28,7 @@ Olá, sou um programador, leitor de mangás e livros, amante da natureza, desenh
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=Socket.io)
 
-## Social medias
+## Links
 
 <a href="https://www.linkedin.com/in/everson-barbosa-da-silva-developer/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
