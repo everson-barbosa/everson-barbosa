@@ -38,4 +38,4 @@ Eu muito bebo café e programo, é isso.
   <img src="https://img.shields.io/badge/-Gmail-d93339?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
-<img alt="Robo de Breath of Fire IV - Ershin se escondendo" src="https://github.com/EverSilva/EverSilva/blob/main/assets/ershin-hiding.gif" width="150">
+<img alt="Robo de Breath of Fire IV - Ershin se escondendo" src="https://github.com/EverSilva/EverSilva/blob/main/assets/images/ershin-hiding.gif" width="150">
