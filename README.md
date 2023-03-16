@@ -1,5 +1,5 @@
 ## Sobre mim
-Eu muito bebo café e programo, é isso.
+Eu bebo muito café e programo, é isso.
 
 ## Informações
 <p float="left" align="center">
