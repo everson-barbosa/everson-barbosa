@@ -28,11 +28,7 @@ Eu bebo muito café e programo, é isso.
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=Socket.io)
 
-## Links
-
-<a href="https://www.linkedin.com/in/everson-barbosa-da-silva-developer/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>  
+## Links  
 
 <a href="mailto:everson.silva2706@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-d93339?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
