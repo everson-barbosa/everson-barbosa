@@ -28,10 +28,4 @@ Eu bebo muito café e programo, é isso.
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=Socket.io)
 
-## Links  
-
-<a href="mailto:everson.silva2706@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-d93339?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-
 <img alt="Robo de Breath of Fire IV - Ershin se escondendo" src="https://github.com/EverSilva/EverSilva/blob/main/assets/images/ershin-hiding.gif" width="150">
