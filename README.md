@@ -1,3 +1,5 @@
+<img alt="Robo de Breath of Fire IV - Ershin se escondendo" src="https://github.com/EverSilva/EverSilva/blob/main/assets/images/ershin-hiding.gif" width="150">
+
 ## Stats
 <p float="left" align="center">
 <img width="380" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversilva&layout=compact&theme=github_dark&border=FFFFFF03&hide_border=true&locale=pt-br&hide_title=true"/>
@@ -23,5 +25,3 @@
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=Ruby%20on%20Rails)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=Socket.io)
-
-<img alt="Robo de Breath of Fire IV - Ershin se escondendo" src="https://github.com/EverSilva/EverSilva/blob/main/assets/images/ershin-hiding.gif" width="150">
