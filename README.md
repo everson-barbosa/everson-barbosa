@@ -1,3 +1,6 @@
+<p float="left" align="center">
+<img width="180" float="left" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif"/>
+
 ## Stats
 <p float="left" align="center">
 <img width="380" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversilva&layout=compact&theme=github_dark&border=FFFFFF03&hide_border=true&locale=pt-br&hide_title=true"/>
