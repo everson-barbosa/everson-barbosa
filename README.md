@@ -18,8 +18,4 @@
 ![Node.Js](https://img.shields.io/badge/-Node.Js-333333?style=flat&logo=Node.Js)
 ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=NPM)
 ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=Yarn)
-![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby)
-![RubyGems](https://img.shields.io/badge/-RubyGems-333333?style=flat&logo=RubyGems)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=Ruby%20on%20Rails)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=Socket.io)
