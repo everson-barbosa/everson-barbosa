@@ -18,4 +18,3 @@
 ![Node.Js](https://img.shields.io/badge/-Node.Js-333333?style=flat&logo=Node.Js)
 ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=NPM)
 ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=Yarn)
-![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=Socket.io)
