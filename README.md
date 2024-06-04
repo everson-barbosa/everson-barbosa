@@ -23,5 +23,4 @@
 ![MSW](https://img.shields.io/badge/-MSW-333333?style=flat&logo=mockserviceworker)
 ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HwbsrIM8HtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+![Ershin](https://github.com/everson-barbosa/everson-barbosa/blob/main/assets/images/ershin-hiding.gif)
