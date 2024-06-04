@@ -1,3 +1,5 @@
+![Ershin](https://github.com/everson-barbosa/everson-barbosa/blob/main/assets/images/ershin-hiding.gif)
+
 ## :mechanical_arm: Stats
 <p float="left" align="center">
 <img width="380" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everson-barbosa&layout=compact&theme=github_dark&border=FFFFFF03&hide_border=true&locale=pt-br&hide_title=true"/>
@@ -22,5 +24,3 @@
 ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=Yarn)
 ![MSW](https://img.shields.io/badge/-MSW-333333?style=flat&logo=mockserviceworker)
 ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
-
-![Ershin](https://github.com/everson-barbosa/everson-barbosa/blob/main/assets/images/ershin-hiding.gif)
