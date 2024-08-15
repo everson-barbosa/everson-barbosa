@@ -1,10 +1,10 @@
-## :mechanical_arm: Stats
+### Stats
 <p float="left" align="center">
 <img width="380" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everson-barbosa&layout=compact&theme=github_dark&border=FFFFFF03&hide_border=true&locale=pt-br&hide_title=true"/>
 <img width="380" src="https://streak-stats.demolab.com/?user=everson-barbosa&theme=dark&hide_border=true&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&background=0D1117"/>
 </p>
 
-## :flying_saucer: Stacks
+### Stacks
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
